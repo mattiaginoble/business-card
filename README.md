@@ -2,7 +2,7 @@
 ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemhuNzlmZHk1cmZuZGlxZWI1cGJybWYzZDF3ZGljcjQ3NDR2NXN5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uutnYIG7rFT8rGfQgy/giphy.gif)
 
 ![GitHub](https://img.shields.io/github/license/mattiaginoble/business-card)
-![GitHub top language](https://img.shields.io/github/languages/top/mattiaginoble/business-card?logo=csswizardry)
+![GitHub top language](https://img.shields.io/github/languages/top/mattiaginoble/business-card?logo=javascript)
 ![GitHub release](https://img.shields.io/github/v/release/mattiaginoble/business-card.svg?color=green)
 ![GitHub all releases](https://img.shields.io/github/downloads/mattiaginoble/business-card/total)
 ![GitHub contributors](https://img.shields.io/github/contributors/mattiaginoble/business-card)
