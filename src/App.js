@@ -36,7 +36,7 @@ function App() {
             <a id="footer__text" href="https://github.com/mattiaginoble/">
               GitHub
             </a>
-            <a id="footer__text" href="https://dribbble.com/mattiaginble/">
+            <a id="footer__text" href="https://dribbble.com/mattiaginoble/">
               Dribble
             </a>
             <a
